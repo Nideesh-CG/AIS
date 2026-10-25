@@ -1,0 +1,27 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env/
+ENV/
+
+# Large datasets & raw logs
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+*.7z
+*.docx
+*.pdf
+
+# OS artifacts
+.DS_Store
+Thumbs.db
